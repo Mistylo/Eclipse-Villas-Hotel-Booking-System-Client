@@ -15,11 +15,11 @@ const Checkout = () => {
         setTimeout(() => {
             getRoomById(roomId)
                 .then(response => {
-                    console.log("API response:", response); // 调试信息
+                    console.log("API response:", response); 
                     setRoomInfo(response);
                     setIsLoading(false);
                 }).catch((error) => {
-                    console.error("API call failed:", error); // 调试信息
+                    console.error("API call failed:", error); 
                     setError(error.message || "An error occurred");
                     setIsLoading(false);
                 });
