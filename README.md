@@ -10,6 +10,7 @@ Currently, two official plugins are available:
 # Eclipse Villas Hotel Booking System
 
 A web-based hotel booking system with advanced features, improved UI, and additional functionalities. This project is an extension and customization of an existing open-source project.
+Link to Eclipse Villas Hotel Booking App Server - https://github.com/Mistylo/Eclipse-Villas-Hotel-Booking-System-Server
 
 ---
 
