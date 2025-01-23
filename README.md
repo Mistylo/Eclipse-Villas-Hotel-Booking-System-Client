@@ -9,8 +9,7 @@ Currently, two official plugins are available:
 
 # Eclipse Villas Hotel Booking System
 
-A web-based hotel booking system with advanced features, improved UI, and additional functionalities. This project is an extension and customization of an existing open-source project.
-Link to Eclipse Villas Hotel Booking App Server - https://github.com/Mistylo/Eclipse-Villas-Hotel-Booking-System-Server
+A web-based hotel booking system with advanced features, improved UI, and additional functionalities. 
 
 ---
 
@@ -22,7 +21,7 @@ Link to Eclipse Villas Hotel Booking App Server - https://github.com/Mistylo/Ecl
 
 
 
-## Features Added by Me
+## Some Key Features
 1. **Refresh Token Authentication**
    - Extended user sessions with refresh tokens.
    - Alert notifications for token expiration.
@@ -76,7 +75,7 @@ Below is the high-level architecture of the system:
 ---
 
 ## Credits
-This project is based on the open-source [Hotel Booking System](https://github.com/dailycodework/lakeSide-hotel-demo-client) created by **dailycodework**. Special thanks to the original creator for providing a strong foundation.
+The idea for this project is inspired by the open-source [Hotel Booking System](https://github.com/dailycodework/lakeSide-hotel-demo-client) created by **dailycodework**. Special thanks to the original creator for providing a strong foundation.
 
 ---
 
