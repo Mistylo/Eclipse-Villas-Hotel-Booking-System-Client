@@ -72,10 +72,4 @@ Below is the high-level architecture of the system:
 3. **Booking System**: Handles room booking, cancellation, and availability checks.
 4. **Notification**: Alerts users about token expiration or booking status.
 
----
-
-## Credits
-The idea for this project is inspired by the open-source [Hotel Booking System](https://github.com/dailycodework/lakeSide-hotel-demo-client) created by **dailycodework**. Special thanks to the original creator for providing a strong foundation.
-
----
 
